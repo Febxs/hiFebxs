@@ -558,9 +558,12 @@ footer .info ul li:hover a i{
         font-size: 62%;
     }
     .i-about p{
-        font-size: 12px;
-        text-align: center;
-    }
+        width: 200px;
+        }
+        footer .info ul li{
+            border: none;
+            
+        }    
     .i-about img{
         width: 200px;
         height: 200px;
